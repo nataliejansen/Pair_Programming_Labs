@@ -10,6 +10,8 @@ namespace Student_Pairing_Application
     {
         static void Main(string[] args)
         {
+
+            
             Console.WriteLine("Please enter a student's name");
 
             string Name = Console.ReadLine().ToLower().Trim();
@@ -18,6 +20,12 @@ namespace Student_Pairing_Application
             students.Add(Name);
 
 
+            //var grouped = students.TakeEveryTwo(students.Count);
+            foreach (var item in students)
+            {
+                Console.WriteLine(string.Join(", ", students));
+
+            }
 
         }
     }

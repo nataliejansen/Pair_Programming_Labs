@@ -1,0 +1,15 @@
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\obj\Debug\net6.0\Student_Pairing_Application.csproj.AssemblyReference.cache
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\obj\Debug\net6.0\Student_Pairing_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\obj\Debug\net6.0\Student_Pairing_Application.AssemblyInfoInputs.cache
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\obj\Debug\net6.0\Student_Pairing_Application.AssemblyInfo.cs
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\obj\Debug\net6.0\Student_Pairing_Application.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\bin\Debug\net6.0\Student_Pairing_Application.exe
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\bin\Debug\net6.0\Student_Pairing_Application.deps.json
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\bin\Debug\net6.0\Student_Pairing_Application.runtimeconfig.json
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\bin\Debug\net6.0\Student_Pairing_Application.dll
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\bin\Debug\net6.0\Student_Pairing_Application.pdb
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\obj\Debug\net6.0\Student_Pairing_Application.dll
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\obj\Debug\net6.0\refint\Student_Pairing_Application.dll
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\obj\Debug\net6.0\Student_Pairing_Application.pdb
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\obj\Debug\net6.0\Student_Pairing_Application.genruntimeconfig.cache
+C:\Users\Student\Source\Repos\nataliekuechler\Pair_Programming_Labs\Student_Pairing_Application\obj\Debug\net6.0\ref\Student_Pairing_Application.dll
